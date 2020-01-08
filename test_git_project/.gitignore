@@ -1,0 +1,6 @@
+~tmpfile
+main.pyc
+gitignore
+__pycache__
+ ../$RECYCLE.BIN/
+VScode_file
